@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - PlayerChar
+  - Block
+  - ladder
+  - Boss
+  - InteractiveObject
+  - Heart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blocks
+  - Background
+  - Spirits
+  - InteractiveObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 385455597
+    locked: 0
+  - name: Objects
+    uniqueID: 1598214959
+    locked: 0
+  - name: TrapsBackground
+    uniqueID: 3755008657
+    locked: 0
+  - name: Tiles
+    uniqueID: 1136015423
+    locked: 0
+  - name: InteractiveObjects
+    uniqueID: 1167495451
+    locked: 0
+  - name: Chars
+    uniqueID: 530335417
+    locked: 0
+  - name: Guns
+    uniqueID: 542933481
+    locked: 0
+  - name: TrapsForeground
+    uniqueID: 3224306035
+    locked: 0
+  - name: Items
+    uniqueID: 2307967677
+    locked: 0
+  - name: Effects
+    uniqueID: 2691328939
+    locked: 0
+  - name: Text
+    uniqueID: 1852537759
+    locked: 0

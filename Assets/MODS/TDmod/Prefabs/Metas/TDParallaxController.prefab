@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5593493925446841150
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5593493925446841148}
+  - component: {fileID: 5593493925446841149}
+  m_Layer: 0
+  m_Name: TDParallaxController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5593493925446841148
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5593493925446841150}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.2378926, y: -5.8950944, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5593493925446841149
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5593493925446841150}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -631611487, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Layers:
+  - {fileID: 6259745856574242159, guid: 3326cbb43ffff1e4aa40ce41260e7f76, type: 3}
+  - {fileID: 1146002137334864219, guid: 3dd5032375e59a24880d7e0493a19185, type: 3}
+  - {fileID: 3906718040577693143, guid: 17e93dfd83cd90f47972bb2e14df95b4, type: 3}
+  - {fileID: 4180555718362995845, guid: a678a53018000274b9d1cd303229b70a, type: 3}
+  - {fileID: 1948539907349748792, guid: 57cbb2f88c900b64cbe652f542af6f6e, type: 3}
+  basePosition: {x: 0, y: 0}
+  maxMovementSpeed: 1
+  playerObject: {fileID: 0}

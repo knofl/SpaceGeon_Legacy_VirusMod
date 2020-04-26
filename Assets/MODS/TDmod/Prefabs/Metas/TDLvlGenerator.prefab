@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3008257817785517670
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 228627335988061976}
+  - component: {fileID: 1853925868682822758}
+  m_Layer: 0
+  m_Name: TDLvlGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &228627335988061976
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3008257817785517670}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1065.358, y: 809.1052, z: -319.29248}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1853925868682822758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3008257817785517670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcffbab86729d064989a37a10fa87271, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tileSymbol: 42
+  pathSymbol: 112
+  probPathSymbol: 98
+  ladderSymbol: 76
+  freeSymbol: 48
+  badPathSymbol: 110
+  pathPointSymbol: 46
+  chestSymbol: 99
+  lockedChestSymbol: 67
+  doorSymbol: 100
+  lockedDoorSymbol: 68
+  enemySymbol: 101
+  lowTrapSymbol: 116
+  middleTrapSymbol: 109
+  upperTrapSymbol: 117
+  playerSymbol: 89

@@ -1,0 +1,232 @@
+ManifestFileVersion: 0
+CRC: 1794717234
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84e4772359fdd45b11f1131d7fa9becf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 228b51717de8b1269fcf1f3b4ff0c17f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 2138131272, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: -1993395912, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: -958612907, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: 572214911, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: 2051421566, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: 381168196, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: -631611487, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: -1275907386, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: -1766509898, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: -446181391, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: 1883139554, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: -984139640, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: -1507452567, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: 407849029, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: 1831518100, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: 1862482474, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: 474616800, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: 18121575, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: 1105100940, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: -549301131, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: 1807529582, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: -2036532589, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: -1267949273, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad775d52eb22f2446bd9f2ef15bdfab2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b60dcbc5816d09549abc2e81ef9efd80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fcffbab86729d064989a37a10fa87271, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d7d39b9b4b9f5f498bc718fbe73c2f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdd07b4d334b75c42892ff47472a4fa5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0607ab5e125dd8147a76b8f93d021aa3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 165eeb6ee22629643a2079e04fc1c135, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bcfc29d2fca643c43aef5449c4b05eff, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/ParallaxBGs/1/Bg3.prefab
+- Assets/MODS/TDmod/Prefabs/UI/TDHerosHUD.prefab
+- Assets/MODS/TDmod/Prefabs/UI/TDUICrosshair.prefab
+- Assets/MODS/TDmod/Prefabs/Tiles/Boxes/BasicBox3.prefab
+- Assets/Sprites/MyTilesets/BackGround/MenuParallax/SpaceGeonMenuBG4_Nebula.png
+- Assets/MODS/TDmod/Prefabs/UI/TDVersionText.prefab
+- Assets/MODS/TDmod/Sprites/Coin/Coin5.png
+- Assets/MODS/TDmod/Animations/Virus3_idle.anim
+- Assets/MODS/TDmod/Prefabs/Tiles/VerticalBox(left_Down).prefab
+- Assets/Sprites/MyTilesets/BackGround/MenuParallax/SpaceGeonMenuBG4_StarsBG2.png
+- Assets/MODS/TDmod/Sounds/Jump.wav
+- Assets/MODS/TDmod/Sounds/heartbeat_slow_reverb.wav
+- Assets/MODS/TDmod/Prefabs/TDWarrior.prefab
+- Assets/MODS/TDmod/Prefabs/Tiles/horizontalBox(down).prefab
+- Assets/MODS/TDmod/Sounds/NESSFX/78_arrowhit.wav
+- Assets/Prefabs/ParallaxBGs/1/Bg1.prefab
+- Assets/MODS/TDmod/Prefabs/UI/TDMainHUD.prefab
+- Assets/MODS/TDmod/Animations/LavaFX.anim
+- Assets/MODS/TDmod/Prefabs/Metas/TDGameMaster.prefab
+- Assets/MODS/TDmod/Prefabs/TDModShotgun.prefab
+- Assets/MODS/TDmod/Prefabs/Metas/TDParallaxController.prefab
+- Assets/MODS/TDmod/Prefabs/NPC/CoronaVirus4.prefab
+- Assets/MODS/TDmod/Prefabs/UI/TDLoadingHUD.prefab
+- Assets/MODS/TDmod/Sounds/NESSFX/63_lose1.wav
+- Assets/MODS/TDmod/Sounds/NESSFX/69_explode.wav
+- Assets/MODS/TDmod/Prefabs/Metas/ZAxisPosition.prefab
+- Assets/MODS/TDmod/Animations/Coin_idle.anim
+- Assets/Prefabs/ParallaxBGs/1/Bg0.prefab
+- Assets/MODS/TDmod/Prefabs/NPC/CoronaVirus2.prefab
+- Assets/MODS/TDmod/Animations/Virus.controller
+- Assets/MODS/TDmod/Prefabs/UI/TDPauseHUD.prefab
+- Assets/MODS/TDmod/Sounds/Music/bgm_action_1.mp3
+- Assets/MODS/TDmod/Sounds/NESSFX/55_step4.wav
+- Assets/MODS/TDmod/Animations/Warrior_die.anim
+- Assets/MODS/TDmod/Prefabs/UI/TDHurtImage.prefab
+- Assets/Sprites/MyTilesets/GUI/UIWindowMocap.png
+- Assets/MODS/TDmod/Animations/Virus1_idle.anim
+- Assets/MODS/TDmod/Sprites/Coin/Coin2.png
+- Assets/Sprites/MyTilesets/BackGround/MenuParallax/SolarSystem.png
+- Assets/MODS/TDmod/Sounds/NESSFX/53_step2.wav
+- Assets/MODS/TDmod/Prefabs/NPC/Heart.prefab
+- Assets/MODS/TDmod/Sprites/NPC/hearty_strip6.png
+- Assets/MODS/TDmod/Sounds/NESSFX/52_step1.wav
+- Assets/MODS/TDmod/Animations/Heart_Idle.anim
+- Assets/MODS/TDmod/Prefabs/Tiles/VerticalBox(right_up).prefab
+- Assets/MODS/TDmod/Prefabs/NPC/CoronaVirus3.prefab
+- Assets/Sprites/MyTilesets/BackGround/MenuParallax/SpaceGeonMenuBG4_Cluster.png
+- Assets/MODS/TDmod/Sprites/Coin/Coin4.png
+- Assets/MODS/TDmod/Sprites/Traps/Smoke &amp; Fire.png
+- Assets/Sprites/MyTilesets/GlassBall4_4.png
+- Assets/MODS/TDmod/Prefabs/Tiles/Boxes/BasicBox.prefab
+- Assets/MODS/TDmod/Prefabs/Tiles/horizontalBox(up).prefab
+- Assets/Animations/TextEventAnimation/Text.controller
+- Assets/MODS/TDmod/Sprites/Coin/Coin6.png
+- Assets/MODS/TDmod/Sounds/Pickup_Coin.wav
+- Assets/Animations/TextEventAnimation/TextAppear.anim
+- Assets/Prefabs/ParallaxBGs/1/Bg4.prefab
+- Assets/MODS/TDmod/Sounds/Explosion.wav
+- Assets/Sprites/MyTilesets/GUI/UIWindowMocap2.png
+- Assets/MODS/TDmod/Sprites/Coin/Coin1.png
+- Assets/Sprites/MyTilesets/SFX/hurt1.png
+- Assets/MODS/TDmod/Animations/Virus4.controller
+- Assets/MODS/TDmod/Animations/Warrior_walk.anim
+- Assets/MODS/TDmod/Animations/Virus3.controller
+- Assets/MODS/TDmod/Animations/TDModCoin.controller
+- Assets/MODS/TDmod/Sounds/Music/bgm_action_5.mp3
+- Assets/MODS/TDmod/Animations/TDWarrior.controller
+- Assets/MODS/TDmod/Animations/Virus2.controller
+- Assets/MODS/TDmod/Prefabs/TDModShotgun_Bullet.prefab
+- Assets/MODS/TDmod/Sprites/weapons_set.png
+- Assets/MODS/TDmod/Sounds/NESSFX/54_step3.wav
+- Assets/MODS/TDmod/Prefabs/Tiles/VerticalBox(right).prefab
+- Assets/MODS/TDmod/Animations/GameObject.controller
+- Assets/MODS/TDmod/Animations/Virus4_idle.anim
+- Assets/MODS/TDmod/Sprites/NPC/monsters.png
+- Assets/MODS/TDmod/Prefabs/Tiles/VerticalBox(right_Down).prefab
+- Assets/MODS/TDmod/Sounds/Music/bgm_action_3.mp3
+- Assets/MODS/TDmod/Sounds/Music/bgm_action_2.mp3
+- Assets/MODS/TDmod/Prefabs/Tiles/Boxes/BasicBox1.prefab
+- Assets/MODS/TDmod/Sounds/NESSFX/15_hit.wav
+- Assets/MODS/TDmod/Prefabs/Metas/TDLvlGenerator.prefab
+- Assets/MODS/TDmod/Prefabs/Tiles/Boxes/BasicBox2.prefab
+- Assets/MODS/TDmod/Sounds/Music/bgm_action_4.mp3
+- Assets/MODS/TDmod/Prefabs/NPC/CoronaVirus.prefab
+- Assets/MODS/TDmod/Prefabs/Tiles/VerticalBox(left_up).prefab
+- Assets/Sprites/MyTilesets/GUI/UIWindowMocap3.png
+- Assets/MODS/TDmod/Animations/Virus2_idle.anim
+- Assets/MODS/TDmod/Animations/Warrior_idle.anim
+- Assets/MODS/TDmod/Sounds/Music/bgm_menu.mp3
+- Assets/MODS/TDmod/Sounds/NESSFX/64_lose2.wav
+- Assets/MODS/TDmod/Sounds/Laser1.wav
+- Assets/MODS/TDmod/Prefabs/UI/TDDeathHUD.prefab
+- Assets/Prefabs/GlassBall4_4.prefab
+- Assets/Prefabs/ParallaxBGs/1/Bg2.prefab
+- Assets/MODS/TDmod/Prefabs/Tiles/Boxes/BasicBox4.prefab
+- Assets/MODS/TDmod/Sprites/Tiles/sci-fi-platformer-tiles-32x32-extension.png
+- Assets/MODS/TDmod/Prefabs/Traps/Lava.prefab
+- Assets/MODS/TDmod/Sprites/Coin/Coin3.png
+- Assets/MODS/TDmod/Animations/Heart.controller
+- Assets/MODS/TDmod/Sprites/player_set.png
+- Assets/MODS/TDmod/Prefabs/Tiles/VerticalBox(left).prefab
+- Assets/Sprites/MyTilesets/BackGround/MenuParallax/SpaceGeonMenuBG4_StarsBG1.png
+- Assets/MODS/TDmod/Sprites/UI/crosshair_8.png
+- Assets/MODS/TDmod/Prefabs/Metas/TDModInputManager.prefab
+- Assets/MODS/TDmod/Sprites/bullet_set.png
+- Assets/MODS/TDmod/Prefabs/TDModCoin.prefab
+- Assets/Prefabs/TextEvent.prefab
+Dependencies: []

@@ -1,0 +1,17 @@
+{
+    "name": "TDModAssembly",
+    "references": [
+        "GUID:7a8a10d10c8e4d54494c593406ec69b8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "BasicAssembly.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
