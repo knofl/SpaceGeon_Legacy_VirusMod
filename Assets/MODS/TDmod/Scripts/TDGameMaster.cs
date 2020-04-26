@@ -8,9 +8,11 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Reflection;
-
-
 using Random = UnityEngine.Random;
+using SpaceGeon.MetaObjects;
+using SpaceGeon.Audio;
+using SpaceGeon.UI;
+using SpaceGeon.Characters;
 
 
 public class TDGameMaster : MonoBehaviour, iGameMaster
@@ -246,6 +248,7 @@ public class TDGameMaster : MonoBehaviour, iGameMaster
     public List<GameObject> PlatformObjects { get => platformObjects; set => platformObjects = value; }
     public GameObject LadderTileObject { get => ladderTileObject; set => ladderTileObject = value; }
     public GameObject InputManagerObject { get => inputManagerObject; set => inputManagerObject = value; }
+    public ResourceManager ResourceManagerObject { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
     bool started = false;
 

@@ -5,7 +5,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
-
+using SpaceGeon.Characters;
+using SpaceGeon.Objects;
+using SpaceGeon.Objects.InteractiveObjects;
+using SpaceGeon.Objects.Items;
+using SpaceGeon.Objects.Guns;
+using SpaceGeon.Audio;
+using SpaceGeon.MetaObjects.SkillControllers;
+using SpaceGeon.MetaObjects;
 
 public class TDWarrior : BasicChar, iPlayableChar
 { 
@@ -909,6 +916,11 @@ public class TDWarrior : BasicChar, iPlayableChar
         base.NextRifle();
         master.UpdateAlternateFireIcon(currentRifleObject.GetComponent<iGun>().GetGunType());
         //
+    }
+
+    List<iGun> iCharWithInventory.GetGuns()
+    {
+        throw new NotImplementedException();
     }
 }
 

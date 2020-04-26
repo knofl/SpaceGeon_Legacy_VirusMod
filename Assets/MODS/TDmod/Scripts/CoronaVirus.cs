@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
 using Random = UnityEngine.Random;
+using SpaceGeon.Characters;
+using SpaceGeon.MetaObjects;
 
 public class CoronaVirus : BasicChar
 {

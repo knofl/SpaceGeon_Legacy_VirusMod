@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using SpaceGeon.UI;
+using SpaceGeon.MetaObjects;
 
 public class TDMainHUD : BasicHUD, iMainHUD
 {

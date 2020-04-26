@@ -1,6 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using SpaceGeon.Characters;
+using SpaceGeon.Audio;
+using SpaceGeon.MetaObjects;
 
 public class TDHeart : BasicChar
 {

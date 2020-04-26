@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
+using SpaceGeon.UI;
 
 
 class TDDeathHUD : BasicHUD, iDeathHUD
