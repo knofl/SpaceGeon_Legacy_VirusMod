@@ -296,15 +296,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 5379488864990940458}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1862482474, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+  m_Script: {fileID: 448657274, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   backgroundMusicClips:
-  - {fileID: 8300000, guid: b42c8e25439d5f74a85a583e2fb5b265, type: 3}
-  - {fileID: 8300000, guid: db9200db4f80948489e7f73d9495a7ac, type: 3}
-  - {fileID: 8300000, guid: f9c5c89b2895ecf4baba1142c0010bdb, type: 3}
-  - {fileID: 8300000, guid: 7384294ca149fcf49b8d1ae899b927b8, type: 3}
-  - {fileID: 8300000, guid: f910c92a8d73de44aa772f41db550118, type: 3}
+  - {fileID: 8300000, guid: 6301e13d7c44619448e294dc88368cb6, type: 3}
   fightMusicClips:
   - {fileID: 8300000, guid: 6301e13d7c44619448e294dc88368cb6, type: 3}
   backgroundMusicPlayer: {fileID: 3721470622176917547}
@@ -603,22 +599,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 7230888702896371177}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 474616800, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+  m_Script: {fileID: 710615068, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxRayDistance: 60
-  epsilon: 0.001
-  mass: 5
-  gravityAcceleration: 0.0003
-  frictionForce: 0.009
-  stopForce: 0.009
-  speedIterator: 0.01
-  jumpBaseSpeed: 0.035
-  hasDoubleJump: 1
-  MAX_VELOCITY: 0.03
-  stairsMaxVelocity: 0.02
-  stairsSpeedIterator: 0.005
-  slowDownEffect: 0.001
+  deathMoans: []
+  hurts: []
+  jumps: []
+  lockeds: []
+  steps: []
+  coinSounds: []
 --- !u!114 &3194466745927565039
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -665,25 +654,22 @@ MonoBehaviour:
   m_GameObject: {fileID: 7230888702896371177}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1105100940, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+  m_Script: {fileID: 1482920728, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathMoans:
-  - {fileID: 8300000, guid: 22be8f84cf04f8e47a52ced76f7a114e, type: 3}
-  - {fileID: 8300000, guid: 1a762e3d214be32468c9d21c4bc3c6b7, type: 3}
-  hurts:
-  - {fileID: 8300000, guid: 94b3b6eba246c194f851100820c3aaa0, type: 3}
-  - {fileID: 8300000, guid: e8b98803386bc03438aa559711e3ad2d, type: 3}
-  jumps:
-  - {fileID: 8300000, guid: b9b45bf1d20a886469781c1911682b18, type: 3}
-  lockeds: []
-  steps:
-  - {fileID: 8300000, guid: 959833b6081cf1243822f044c7b85511, type: 3}
-  - {fileID: 8300000, guid: ccb62f263d8c4c44e93620207dd3bd48, type: 3}
-  - {fileID: 8300000, guid: a686d9da4081ead4cb520b852ed52006, type: 3}
-  - {fileID: 8300000, guid: d9ecc55564bc3864089a92abd0489174, type: 3}
-  coinSounds:
-  - {fileID: 8300000, guid: 6b77d7380c3695d4e8327d3bda1c6f7c, type: 3}
+  maxRayDistance: 60
+  epsilon: 0.001
+  mass: 5
+  gravityAcceleration: 0.0003
+  frictionForce: 0.009
+  stopForce: 0.009
+  speedIterator: 0.01
+  jumpBaseSpeed: 0.035
+  hasDoubleJump: 1
+  MAX_VELOCITY: 0.03
+  stairsMaxVelocity: 0.02
+  stairsSpeedIterator: 0.005
+  slowDownEffect: 0.001
 --- !u!1 &7230888702988402871
 GameObject:
   m_ObjectHideFlags: 0
@@ -724,12 +710,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 7230888702988402871}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1766509898, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+  m_Script: {fileID: -249325480, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   cooldownTime: 90
-  glassBallPrefab: {fileID: 5114238140669037001, guid: 91ac8aed50085da47a7a3401532930d8,
-    type: 3}
+  glassBallPrefab: {fileID: 0}
   ballsCount: 5
   innerRadius: 0.5
   angleIteration: 0.1

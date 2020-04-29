@@ -161,13 +161,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 7081705329822370092}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 2138131272, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+  m_Script: {fileID: -1170395655, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   ammoStartPower: 1
-  ammoDamage: 100
+  ammoDamage: 10
   ammoSpecialEffectDamage: 1
   ammoType: 0
   nonCollideableLayers:
     serializedVersion: 2
-    m_Bits: 3072
+    m_Bits: 1568

@@ -41,7 +41,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 3860360593310191193}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1105100940, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+  m_Script: {fileID: 710615068, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   deathMoans: []
@@ -438,10 +438,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 7963553194966785878}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 474616800, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+  m_Script: {fileID: 1482920728, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxRayDistance: 80
+  maxRayDistance: 60
   epsilon: 0.001
   mass: 5
   gravityAcceleration: 0.0003
@@ -449,8 +449,8 @@ MonoBehaviour:
   stopForce: 0.009
   speedIterator: 0.01
   jumpBaseSpeed: 0.035
-  hasDoubleJump: 0
-  MAX_VELOCITY: 0.02
+  hasDoubleJump: 1
+  MAX_VELOCITY: 0.03
   stairsMaxVelocity: 0.02
   stairsSpeedIterator: 0.005
   slowDownEffect: 0.001

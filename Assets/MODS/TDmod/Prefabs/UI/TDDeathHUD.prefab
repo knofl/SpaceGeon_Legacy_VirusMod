@@ -60,6 +60,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -141,6 +142,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -216,6 +218,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -238,24 +241,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 7471367384348427676}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1993395912, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+  m_Script: {fileID: 1254144017, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   myType: 0
   clickEvent:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 5233576990558064044}
-        m_MethodName: RebornClicked
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
   incrementTime: 0.3
   maxIncrementsPerSec: 20
   minIncrementsPerSec: 3
@@ -321,6 +313,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -343,24 +336,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 7471367384551282752}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1993395912, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+  m_Script: {fileID: 1254144017, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myType: 0
+  myType: 1
   clickEvent:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 5233576990558064044}
-        m_MethodName: RageQuitClicked
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
   incrementTime: 0.3
   maxIncrementsPerSec: 20
   minIncrementsPerSec: 3
@@ -427,6 +409,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 0.03817728, b: 0, a: 0.6509804}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -533,6 +516,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -559,7 +543,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 7471367385211219558}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 572214911, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+  m_Script: {fileID: -481357455, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   myType: 17
@@ -623,6 +607,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -700,6 +685,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []

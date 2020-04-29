@@ -62,6 +62,7 @@ MonoBehaviour:
   m_Material: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
+  m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -84,7 +85,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 9155092917275760909}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -2036532589, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+  m_Script: {fileID: 1742475551, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   appearFadeTime: 1

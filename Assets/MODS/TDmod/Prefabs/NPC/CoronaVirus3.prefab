@@ -10,12 +10,12 @@ GameObject:
   m_Component:
   - component: {fileID: 5565919992963565922}
   - component: {fileID: 704244452191463621}
-  - component: {fileID: 7553279024957379953}
   - component: {fileID: 5253535695483008385}
   - component: {fileID: 4521009571578583475}
   - component: {fileID: 5533273560959418682}
   - component: {fileID: 8470748992263423220}
   - component: {fileID: 4920580975228769313}
+  - component: {fileID: 4936589721147685511}
   m_Layer: 0
   m_Name: CoronaVirus3
   m_TagString: Enemy
@@ -88,31 +88,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &7553279024957379953
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5521721298314462190}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 474616800, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  maxRayDistance: 80
-  epsilon: 0.001
-  mass: 5
-  gravityAcceleration: 0.0003
-  frictionForce: 0.009
-  stopForce: 0.009
-  speedIterator: 0.01
-  jumpBaseSpeed: 0.035
-  hasDoubleJump: 0
-  MAX_VELOCITY: 0.02
-  stairsMaxVelocity: 0.02
-  stairsSpeedIterator: 0.005
-  slowDownEffect: 0.001
 --- !u!50 &5253535695483008385
 Rigidbody2D:
   serializedVersion: 4
@@ -306,3 +281,28 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.16
+--- !u!114 &4936589721147685511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5521721298314462190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1482920728, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxRayDistance: 60
+  epsilon: 0.001
+  mass: 5
+  gravityAcceleration: 0.0003
+  frictionForce: 0.009
+  stopForce: 0.009
+  speedIterator: 0.01
+  jumpBaseSpeed: 0.035
+  hasDoubleJump: 1
+  MAX_VELOCITY: 0.03
+  stairsMaxVelocity: 0.02
+  stairsSpeedIterator: 0.005
+  slowDownEffect: 0.001

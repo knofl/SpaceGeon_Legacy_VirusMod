@@ -770,7 +770,6 @@ public class TDWarrior : BasicChar, iPlayableChar
 
     protected void UpdateAmmoIcon()
     {
-        iGun gun = currentRifleObject.GetComponent<iGun>();
         master.UpdateAmmoIcon(currentRifleObject.GetComponent<iGun>().GetLoadedAmmoType());
     }
 

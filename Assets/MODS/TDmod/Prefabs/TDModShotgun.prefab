@@ -221,38 +221,37 @@ MonoBehaviour:
   m_GameObject: {fileID: 5463873645348761808}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -549301131, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
+  m_Script: {fileID: -1192730622, guid: 995223507eefaac4bbf582d177a37abe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  firePerSec: 5
+  firePerSec: 10
   alternateFireCooldownSecs: 10
   hasAlternateFire: 1
-  gunForCharType: 000000000200000001000000
+  gunForCharType: 00000000
   gunType: 1
   minimalCharLevel: 1
-  basicDamage: 5
+  basicDamage: 10
   basicAlternateDamage: 100
-  ammoTypes: 00000000010000000300000004000000
+  ammoTypes: 00000000
   ammoTypeObjects:
   - {fileID: 7081705329822370092, guid: 073107aafa13bf24d8971d0c8991107e, type: 3}
-  basicScatterAngle: 2.5
+  basicScatterAngle: 0
   myGunQuality: 0
   firePoint: {fileID: 1510918964430667376}
   pieceOfTimeForCooldownUpdateSecs: 0.1
-  currentDamage: 5
+  currentDamage: 10
   currentAlternateDamage: 100
   pickGunSounds: []
   noAmmoSounds: []
   magazineLoadSounds: []
   firstShotSound: {fileID: 0}
-  shotSounds:
-  - {fileID: 8300000, guid: be97216db75dad742820b34eced0e7aa, type: 3}
+  shotSounds: []
   lastShotSound: {fileID: 0}
   alternateFireType: 0
   alternateFireSounds: []
   alternateFireReloadSounds: []
   fractionsCount: 3
-  deviationAngle: 15
+  deviationAngle: 30
 --- !u!95 &7503193324443674339
 Animator:
   serializedVersion: 3
